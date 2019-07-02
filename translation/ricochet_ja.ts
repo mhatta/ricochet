@@ -351,7 +351,7 @@
     <message>
         <location filename="../src/ui/qml/NetworkSetupWizard.qml" line="100"/>
         <source>This computer&apos;s Internet connection is free of obstacles. I would like to connect directly to the Tor network.</source>
-        <translation>このコンピュータはインターネット接続に問題がありません。トールネットワークに直接接続します</translation>
+        <translation>このコンピュータのインターネット接続は妨害を受けていません。Tor ネットワークに直接接続してください。</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/NetworkSetupWizard.qml" line="107"/>
@@ -446,7 +446,7 @@
     <message>
         <location filename="../src/ui/qml/PreferencesDialog.qml" line="56"/>
         <source>Tor</source>
-        <translation>トール</translation>
+        <translation>Tor</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/PreferencesDialog.qml" line="61"/>
@@ -467,7 +467,7 @@
     <message>
         <location filename="../src/ui/qml/StartupStatusPage.qml" line="18"/>
         <source>The Tor process was not started successfully. This is most likely an installation or system error.</source>
-        <translation>トールの処理が適切に開始されませんでした。インストールエラーか、システムエラーの可能性が高いです。</translation>
+        <translation>Tor プロセスが適切に開始されませんでした。インストールエラーか、システムエラーの可能性が高いです。</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/StartupStatusPage.qml" line="49"/>
@@ -481,7 +481,7 @@
         <location filename="../src/ui/qml/TorBootstrapStatus.qml" line="17"/>
         <source>Connecting to the Tor network…</source>
         <extracomment>\u2026 is ellipsis</extracomment>
-        <translation>トールネットワークに接続中</translation>
+        <translation>Tor ネットワークに接続中...</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorBootstrapStatus.qml" line="50"/>
