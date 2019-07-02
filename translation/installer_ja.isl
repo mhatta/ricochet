@@ -1,14 +1,14 @@
 [Messages]
-WelcomeLabel2=‚±‚Ì‘€ì‚É‚æ‚èƒŠƒRƒVƒFƒC‚ªƒRƒ“ƒsƒ…[ƒ^‚ÉƒCƒ“ƒXƒg[ƒ‹‚³‚ê‚Ü‚·
+WelcomeLabel2=ã“ã®æ“ä½œã«ã‚ˆã‚Š Ricochet ãŒã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã«ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã•ã‚Œã¾ã™ã€‚
 [CustomMessages]
-AppTitle=ƒŠƒRƒVƒFƒCF“½–¼‚ÌƒCƒ“ƒXƒ^ƒ“ƒgƒƒbƒZƒ“ƒWƒƒ[
-UninstallShortcut=ƒŠƒRƒVƒFƒC‚ðƒAƒ“ƒCƒ“ƒXƒg[ƒ‹
-RunShortcut=ƒŠƒRƒVƒFƒC‚ðŠJ‚­
-PortableDesc=ƒ|[ƒ^ƒuƒ‹”ÅƒCƒ“ƒXƒgƒŒ[ƒVƒ‡ƒ“‚ðŠó–]‚µ‚Ü‚·‚©H
-PortableText=ƒŠƒRƒVƒFƒC‚Í‚ ‚È‚½‚ÌƒVƒXƒeƒ€‚ÉƒCƒ“ƒXƒg[ƒ‹‚·‚é‚©A‚à‚µ‚­‚Íƒ|[ƒ^ƒuƒ‹ƒtƒHƒ‹ƒ_‚ÉŽæ‚èo‚·‚±‚Æ‚à‰Â”\‚Å‚·Bƒ|[ƒ^ƒuƒ‹ƒCƒ“ƒXƒgƒŒ[ƒVƒ‡ƒ“‚Ìê‡AˆÙ‚È‚é‚ÌƒRƒ“ƒsƒ…[ƒ^ã‚Å“®‚©‚µ‚½‚èAˆÃ†‰»‚³‚ê‚½ƒn[ƒhƒhƒ‰ƒEƒuã‚Å•Û‘¶‚·‚é‚±‚Æ‚ª‰Â”\‚Å‚·B
-PortableTitle=ƒCƒ“ƒXƒgƒŒ[ƒVƒ‡ƒ“ƒ‚[ƒh
-PortableOptInstall=ƒCƒ“ƒXƒg[ƒ‹(„§)
-PortableOptExtract=Žæ‚èo‚·(ƒ|[ƒ^ƒuƒ‹”Å)
-BtnExtract=Žæ‚èo‚·
-ExtractDirText=ƒŠƒRƒVƒFƒC‚Í‚±‚ÌƒtƒHƒ‹ƒ_‚É“WŠJ‚³‚ê‚Ü‚·
-ExtractDirDesc=ƒŠƒRƒVƒFƒC‚ð‚Ç‚±‚É‰ð“€‚µ‚Ü‚·‚©H
+AppTitle=Ricochet - åŒ¿åã§ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ãƒˆãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒ³ã‚°
+UninstallShortcut=Ricochet ã‚’ã‚¢ãƒ³ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
+RunShortcut=Ricochet ã‚’èµ·å‹•
+PortableDesc=ãƒãƒ¼ã‚¿ãƒ–ãƒ«ç‰ˆã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã‚’å¸Œæœ›ã—ã¾ã™ã‹ï¼Ÿ
+PortableText=Richochet ã¯ã‚·ã‚¹ãƒ†ãƒ ã«ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã™ã‚‹ã“ã¨ã‚‚ã€ãƒãƒ¼ã‚¿ãƒ–ãƒ«ãªãƒ•ã‚©ãƒ«ãƒ€ã«å±•é–‹ã™ã‚‹ã“ã¨ã‚‚å¯èƒ½ã§ã™ã€‚ãƒãƒ¼ã‚¿ãƒ–ãƒ«ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã®å ´åˆã€ç•°ãªã‚‹ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ä¸Šã§å‹•ã‹ã—ãŸã‚Šã€æš—å·åŒ–ã•ã‚ŒãŸãƒãƒ¼ãƒ‰ãƒ‰ãƒ©ã‚¤ãƒ–ä¸Šã§å®‰å…¨ã«ä¿å­˜ã™ã‚‹ã“ã¨ãŒå¯èƒ½ã§ã™ã€‚
+PortableTitle=ã‚¤ãƒ³ã‚¹ãƒˆãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³ãƒ¢ãƒ¼ãƒ‰
+PortableOptInstall=ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ï¼ˆæŽ¨å¥¨ï¼‰
+PortableOptExtract=å±•é–‹ï¼ˆãƒãƒ¼ã‚¿ãƒ–ãƒ«ç‰ˆï¼‰
+BtnExtract=å±•é–‹
+ExtractDirText=Ricochet ã¯ä»¥ä¸‹ã®ãƒ•ã‚©ãƒ«ãƒ€ã«å±•é–‹ã•ã‚Œã¾ã™
+ExtractDirDesc=Ricochet ã‚’ã©ã“ã«å±•é–‹ã—ã¾ã™ã‹ï¼Ÿ
