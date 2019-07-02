@@ -1,14 +1,14 @@
 [Messages]
-WelcomeLabel2=この操作により Ricochet がコンピュータにインストールされます。
+WelcomeLabel2=���̑���ɂ�� Ricochet ���R���s���[�^�ɃC���X�g�[������܂��B
 [CustomMessages]
-AppTitle=Ricochet - 匿名でインスタントメッセージング
-UninstallShortcut=Ricochet をアンインストール
-RunShortcut=Ricochet を起動
-PortableDesc=ポータブル版のインストールを希望しますか？
-PortableText=Richochet はシステムにインストールすることも、ポータブルなフォルダに展開することも可能です。ポータブルインストールの場合、異なるコンピュータ上で動かしたり、暗号化されたハードドライブ上で安全に保存することが可能です。
-PortableTitle=インストレーションモード
-PortableOptInstall=インストール（推奨）
-PortableOptExtract=展開（ポータブル版）
-BtnExtract=展開
-ExtractDirText=Ricochet は以下のフォルダに展開されます
-ExtractDirDesc=Ricochet をどこに展開しますか？
+AppTitle=Ricochet - �����ŃC���X�^���g���b�Z�[�W���O
+UninstallShortcut=Ricochet ���A���C���X�g�[��
+RunShortcut=Ricochet ���N��
+PortableDesc=�|�[�^�u���ł̃C���X�g�[������]���܂����H
+PortableText=Richochet �̓V�X�e���ɃC���X�g�[�����邱�Ƃ��A�|�[�^�u���ȃt�H���_�ɓW�J���邱�Ƃ��\�ł��B�|�[�^�u���C���X�g�[���̏ꍇ�A�قȂ�R���s���[�^��œ���������A�Í������ꂽ�n�[�h�h���C�u��ň��S�ɕۑ����邱�Ƃ��\�ł��B
+PortableTitle=�C���X�g���[�V�������[�h
+PortableOptInstall=�C���X�g�[���i�����j
+PortableOptExtract=�W�J�i�|�[�^�u���Łj
+BtnExtract=�W�J
+ExtractDirText=Ricochet �͈ȉ��̃t�H���_�ɓW�J����܂�
+ExtractDirDesc=Ricochet ���ǂ��ɓW�J���܂����H
