@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="ja">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="ja" version="2.1">
 <context>
     <name>AboutPreferences</name>
     <message>
         <location filename="../src/ui/qml/AboutPreferences.qml" line="14"/>
         <source>Ricochet %1</source>
         <extracomment>%1 version, e.g. 1.0.0</extracomment>
-        <translation>リコシェイ %1</translation>
+        <translation>Ricochet %1</translation>
     </message>
 </context>
 <context>
@@ -15,7 +13,7 @@
     <message>
         <location filename="../src/ui/qml/AddContactDialog.qml" line="51"/>
         <source>Share your Ricochet ID to allow connection requests</source>
-        <translation>接続リクエストを許可するためにリコシェイ IDをシェアしてください</translation>
+        <translation>接続リクエストを許可するために Ricochet IDを共有してください</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/AddContactDialog.qml" line="107"/>
@@ -54,27 +52,27 @@
 <context>
     <name>ContactIDField</name>
     <message>
-        <location filename="../src/ui/qml/ContactIDField.qml" line="41"/>
+        <location filename="../src/ui/qml/ContactIDField.qml" line="40"/>
         <source>&lt;b&gt;%1&lt;/b&gt; is already your contact</source>
         <translation>&lt;b&gt;%1&lt;/b&gt; は既にあなたのコンタクトに存在します</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactIDField.qml" line="43"/>
+        <location filename="../src/ui/qml/ContactIDField.qml" line="42"/>
         <source>You can&apos;t add yourself as a contact</source>
         <translation>自分自身をコンタクトに追加することはできません</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactIDField.qml" line="45"/>
+        <location filename="../src/ui/qml/ContactIDField.qml" line="44"/>
         <source>Enter an ID starting with &lt;b&gt;ricochet:&lt;/b&gt;</source>
-        <translation>&lt;b&gt;リコシェイ&lt;/b&gt; から始まるID を入力してください</translation>
+        <translation>&lt;b&gt;ricochet:&lt;/b&gt; から始まるID を入力してください</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactIDField.qml" line="81"/>
+        <location filename="../src/ui/qml/ContactIDField.qml" line="79"/>
         <source>Copied to clipboard</source>
         <translation>クリップボードにコピーしました</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactIDField.qml" line="93"/>
+        <location filename="../src/ui/qml/ContactIDField.qml" line="91"/>
         <source>Copy</source>
         <translation>コピー</translation>
     </message>
@@ -82,27 +80,27 @@
 <context>
     <name>ContactList</name>
     <message>
-        <location filename="../src/ui/qml/ContactList.qml" line="76"/>
+        <location filename="../src/ui/qml/ContactList.qml" line="75"/>
         <source>Online</source>
         <translation>オンライン</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactList.qml" line="77"/>
+        <location filename="../src/ui/qml/ContactList.qml" line="76"/>
         <source>Offline</source>
         <translation>オフライン</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactList.qml" line="78"/>
+        <location filename="../src/ui/qml/ContactList.qml" line="77"/>
         <source>Requests</source>
         <translation>リクエスト</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactList.qml" line="79"/>
+        <location filename="../src/ui/qml/ContactList.qml" line="78"/>
         <source>Rejected</source>
         <translation>拒否されました</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactList.qml" line="80"/>
+        <location filename="../src/ui/qml/ContactList.qml" line="79"/>
         <source>Outdated</source>
         <translation>古い</translation>
     </message>
@@ -110,63 +108,63 @@
 <context>
     <name>ContactPreferences</name>
     <message>
-        <location filename="../src/ui/qml/ContactPreferences.qml" line="98"/>
+        <location filename="../src/ui/qml/ContactPreferences.qml" line="97"/>
         <source>Date added:</source>
-        <translation>追加された日</translation>
+        <translation>追加された日:</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactPreferences.qml" line="106"/>
+        <location filename="../src/ui/qml/ContactPreferences.qml" line="104"/>
         <source>Last seen:</source>
-        <translation>最後に閲覧</translation>
+        <translation>最後に閲覧:</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactPreferences.qml" line="116"/>
+        <location filename="../src/ui/qml/ContactPreferences.qml" line="113"/>
         <source>Request:</source>
-        <translation>リクエスト</translation>
+        <translation>リクエスト:</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactPreferences.qml" line="126"/>
+        <location filename="../src/ui/qml/ContactPreferences.qml" line="122"/>
         <source>Pending connection</source>
         <translation>接続を保留中です</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactPreferences.qml" line="127"/>
+        <location filename="../src/ui/qml/ContactPreferences.qml" line="123"/>
         <source>Delivered</source>
         <translation>送信完了</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactPreferences.qml" line="128"/>
+        <location filename="../src/ui/qml/ContactPreferences.qml" line="124"/>
         <source>Accepted</source>
         <translation>受諾されました</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactPreferences.qml" line="129"/>
+        <location filename="../src/ui/qml/ContactPreferences.qml" line="125"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactPreferences.qml" line="130"/>
+        <location filename="../src/ui/qml/ContactPreferences.qml" line="126"/>
         <source>Rejected</source>
         <translation>拒否されました</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactPreferences.qml" line="134"/>
+        <location filename="../src/ui/qml/ContactPreferences.qml" line="130"/>
         <source>%1 (Connected)</source>
         <extracomment>%1 status, e.g. &quot;Accepted&quot;</extracomment>
         <translation>%1(接続されました)</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactPreferences.qml" line="140"/>
+        <location filename="../src/ui/qml/ContactPreferences.qml" line="136"/>
         <source>Response:</source>
         <translation>返答</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactPreferences.qml" line="163"/>
+        <location filename="../src/ui/qml/ContactPreferences.qml" line="158"/>
         <source>Rename</source>
         <translation>名前を変更する</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/ContactPreferences.qml" line="170"/>
+        <location filename="../src/ui/qml/ContactPreferences.qml" line="165"/>
         <source>Remove</source>
         <translation>削除する</translation>
     </message>
@@ -210,45 +208,37 @@
 <context>
     <name>GeneralPreferences</name>
     <message>
-        <location filename="../src/ui/qml/GeneralPreferences.qml" line="13"/>
+        <location filename="../src/ui/qml/GeneralPreferences.qml" line="12"/>
         <source>Use a single window for conversations</source>
         <translation>一つのウィンドウで会話する</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/GeneralPreferences.qml" line="21"/>
+        <location filename="../src/ui/qml/GeneralPreferences.qml" line="20"/>
         <source>Open links in default browser without prompting</source>
         <translation>ブラウザでウェブリンクを開く際には都度通知せず開く</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/GeneralPreferences.qml" line="29"/>
+        <location filename="../src/ui/qml/GeneralPreferences.qml" line="28"/>
         <source>Play audio notifications</source>
         <translation>通知音を鳴らす</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/GeneralPreferences.qml" line="38"/>
+        <location filename="../src/ui/qml/GeneralPreferences.qml" line="37"/>
         <source>Volume</source>
         <translation>音量</translation>
-    </message>
-    <message>
-        <location filename="../src/ui/qml/GeneralPreferences.qml" line="53"/>
-        <source>Language</source>
-        <translation type="unfinished">言語</translation>
-    </message>
-    <message>
-        <location filename="../src/ui/qml/GeneralPreferences.qml" line="76"/>
-        <source>Restart Ricochet to apply changes</source>
-        <translation type="unfinished">変更を反映するためリコシェイを再起動する</translation>
     </message>
 </context>
 <context>
     <name>LanguagePreferences</name>
     <message>
+        <location filename="../src/ui/qml/LanguagePreferences.qml" line="22"/>
         <source>Select Language</source>
-        <translation type="vanished">言語を選択</translation>
+        <translation>言語を選択</translation>
     </message>
     <message>
+        <location filename="../src/ui/qml/LanguagePreferences.qml" line="52"/>
         <source>Restart Ricochet to apply changes</source>
-        <translation type="vanished">変更を反映するためリコシェイを再起動する</translation>
+        <translation>変更を反映するため Ricochet を再起動する</translation>
     </message>
 </context>
 <context>
@@ -262,9 +252,9 @@
 <context>
     <name>Main</name>
     <message>
-        <location filename="../src/main.cpp" line="81"/>
+        <location filename="../src/main.cpp" line="73"/>
         <source>Ricochet Error</source>
-        <translation>リコシェイのエラー</translation>
+        <translation>Ricochet のエラー</translation>
     </message>
 </context>
 <context>
@@ -288,12 +278,12 @@
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../src/ui/MainWindow.cpp" line="191"/>
+        <location filename="../src/ui/MainWindow.cpp" line="153"/>
         <source>Remove %1</source>
         <translation>%1を削除する</translation>
     </message>
     <message>
-        <location filename="../src/ui/MainWindow.cpp" line="192"/>
+        <location filename="../src/ui/MainWindow.cpp" line="154"/>
         <source>Do you want to permanently remove %1?</source>
         <translation>%1を永久に削除しますか？</translation>
     </message>
@@ -307,32 +297,32 @@
         <translation>%1はオフラインです</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/MessageDelegate.qml" line="135"/>
+        <location filename="../src/ui/qml/MessageDelegate.qml" line="134"/>
         <source>Copy ID</source>
         <translation>IDをコピーする</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/MessageDelegate.qml" line="135"/>
+        <location filename="../src/ui/qml/MessageDelegate.qml" line="134"/>
         <source>Copy Link</source>
         <translation>リンクをコピーする</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/MessageDelegate.qml" line="140"/>
+        <location filename="../src/ui/qml/MessageDelegate.qml" line="139"/>
         <source>Open with Browser</source>
         <translation>ブラウザで開く</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/MessageDelegate.qml" line="154"/>
+        <location filename="../src/ui/qml/MessageDelegate.qml" line="153"/>
         <source>Add as Contact</source>
         <translation>コンタクトに追加する</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/MessageDelegate.qml" line="166"/>
+        <location filename="../src/ui/qml/MessageDelegate.qml" line="165"/>
         <source>Copy Message</source>
         <translation>メッセージをコピーする</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/MessageDelegate.qml" line="173"/>
+        <location filename="../src/ui/qml/MessageDelegate.qml" line="172"/>
         <source>Copy Selection</source>
         <translation>選択範囲をコピーする</translation>
     </message>
@@ -340,18 +330,18 @@
 <context>
     <name>MessageDialogWrapper</name>
     <message>
-        <location filename="../src/ui/qml/MessageDialogWrapper.qml" line="8"/>
+        <location filename="../src/ui/qml/MessageDialogWrapper.qml" line="7"/>
         <source>Remove %1</source>
         <translation>%1を削除する</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/MessageDialogWrapper.qml" line="10"/>
+        <location filename="../src/ui/qml/MessageDialogWrapper.qml" line="9"/>
         <source>Do you want to permanently remove %1?</source>
         <extracomment>%1 nickname</extracomment>
         <translation>%1を永久に削除しますか？</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/MessageDialogWrapper.qml" line="11"/>
+        <location filename="../src/ui/qml/MessageDialogWrapper.qml" line="10"/>
         <source>This contact will no longer be able to message you, and will be notified about the removal. They may choose to send a new connection request.</source>
         <translation>このコンタクトはあなたにメッセージを送ることはできなくなり、削除されたことが通知されます。新たにつながりリクエストを送ることを選択するかもしれません。</translation>
     </message>
@@ -406,27 +396,27 @@
 <context>
     <name>OpenBrowserDialog</name>
     <message>
-        <location filename="../src/ui/qml/OpenBrowserDialog.qml" line="40"/>
+        <location filename="../src/ui/qml/OpenBrowserDialog.qml" line="39"/>
         <source>&lt;b&gt;Warning!&lt;/b&gt; Opening links with your default browser will harm your security and anonymity.&lt;br&gt;&lt;br&gt;You can &lt;a href=&apos;.&apos;&gt;copy to the clipboard&lt;/a&gt; instead.</source>
         <translation>&lt;b&gt; 警告！&lt;b/&gt; このリンクを既定のブラウザで開くとあなたのセキュリティと匿名性に害を及ぼす可能性があります。&lt;br&gt;&lt;br&gt; 代わりに&lt;a href=&apos;,&apos;&gt; クリップボードにコピーする&lt;/a&gt; こともできます。</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/OpenBrowserDialog.qml" line="59"/>
+        <location filename="../src/ui/qml/OpenBrowserDialog.qml" line="58"/>
         <source>Don&apos;t ask again for links from %1</source>
         <translation>%1からのリンクはいつも許可する</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/OpenBrowserDialog.qml" line="65"/>
+        <location filename="../src/ui/qml/OpenBrowserDialog.qml" line="64"/>
         <source>Don&apos;t ask again for any links (not recommended!)</source>
         <translation>%1からのすべてのリンクを再確認しない(非推奨)</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/OpenBrowserDialog.qml" line="72"/>
+        <location filename="../src/ui/qml/OpenBrowserDialog.qml" line="71"/>
         <source>Open Browser</source>
         <translation>ブラウザを開く</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/OpenBrowserDialog.qml" line="84"/>
+        <location filename="../src/ui/qml/OpenBrowserDialog.qml" line="83"/>
         <source>Cancel</source>
         <translation>取り消す</translation>
     </message>
@@ -436,7 +426,7 @@
     <message>
         <location filename="../src/ui/qml/PreferencesDialog.qml" line="12"/>
         <source>Ricochet Preferences</source>
-        <translation>リコシェイの設定</translation>
+        <translation>Ricochet の設定</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/PreferencesDialog.qml" line="41"/>
@@ -444,21 +434,22 @@
         <translation>一般</translation>
     </message>
     <message>
+        <location filename="../src/ui/qml/PreferencesDialog.qml" line="46"/>
         <source>Language</source>
-        <translation type="vanished">言語</translation>
+        <translation>言語</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/PreferencesDialog.qml" line="46"/>
+        <location filename="../src/ui/qml/PreferencesDialog.qml" line="51"/>
         <source>Contacts</source>
         <translation>コンタクト</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/PreferencesDialog.qml" line="51"/>
+        <location filename="../src/ui/qml/PreferencesDialog.qml" line="56"/>
         <source>Tor</source>
         <translation>トール</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/PreferencesDialog.qml" line="56"/>
+        <location filename="../src/ui/qml/PreferencesDialog.qml" line="61"/>
         <source>About</source>
         <translation>情報</translation>
     </message>
@@ -493,22 +484,22 @@
         <translation>トールネットワークに接続中</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorBootstrapStatus.qml" line="51"/>
+        <location filename="../src/ui/qml/TorBootstrapStatus.qml" line="50"/>
         <source>Back</source>
         <translation>ドル</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorBootstrapStatus.qml" line="58"/>
+        <location filename="../src/ui/qml/TorBootstrapStatus.qml" line="57"/>
         <source>Hide details</source>
         <translation>詳細を隠す</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorBootstrapStatus.qml" line="58"/>
+        <location filename="../src/ui/qml/TorBootstrapStatus.qml" line="57"/>
         <source>Show details</source>
         <translation>詳細を開く</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorBootstrapStatus.qml" line="70"/>
+        <location filename="../src/ui/qml/TorBootstrapStatus.qml" line="69"/>
         <source>Done</source>
         <translation>完了</translation>
     </message>
@@ -516,84 +507,84 @@
 <context>
     <name>TorConfigurationPage</name>
     <message>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="73"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="72"/>
         <source>Does this computer need a proxy to access the internet?</source>
         <translation>このコンピュータはインターネットにアクセスするのにプロキシが必要ですか？</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="85"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="84"/>
         <source>Proxy type:</source>
         <translation>プロキシの種類</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="90"/>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="92"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="89"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="91"/>
         <source>None</source>
         <translation>無い</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="107"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="106"/>
         <source>Address:</source>
         <translation>アドレス</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="116"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="115"/>
         <source>IP address or hostname</source>
         <translation>IPアドレスかホストネーム</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="119"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="118"/>
         <source>Port:</source>
         <translation>ポート</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="130"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="129"/>
         <source>Username:</source>
         <translation>ユーザーネーム</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="140"/>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="150"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="139"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="149"/>
         <source>Optional</source>
         <translation>必須では無い</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="143"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="142"/>
         <source>Password:</source>
         <translation>パスワード</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="160"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="159"/>
         <source>Does this computer&apos;s Internet connection go through a firewall that only allows connections to certain ports?</source>
         <translation>このコンピュータは特定のポートの身を許可するファイアウォールを経由しますか？</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="171"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="170"/>
         <source>Allowed ports:</source>
         <translation>許可されたポート</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="178"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="177"/>
         <source>Example: 80,443</source>
         <translation>例えば：80 、443</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="189"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="188"/>
         <source>If this computer&apos;s Internet connection is censored, you will need to obtain and use bridge relays.</source>
         <translation>このコンピュータのインターネット接続が検知された場合、ブリッジリレーを手に入れて利用する必要があります</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="198"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="197"/>
         <source>Enter one or more bridge relays (one per line):</source>
         <translation>1つもしくはそれ以上のブリッジリレーを入力してください(１ラインにつき１つ)：</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="213"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="212"/>
         <source>Back</source>
         <translation>戻る</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="220"/>
+        <location filename="../src/ui/qml/TorConfigurationPage.qml" line="219"/>
         <source>Connect</source>
         <translation>接続する</translation>
     </message>
@@ -601,67 +592,67 @@
 <context>
     <name>TorPreferences</name>
     <message>
-        <location filename="../src/ui/qml/TorPreferences.qml" line="25"/>
+        <location filename="../src/ui/qml/TorPreferences.qml" line="24"/>
         <source>Running:</source>
         <translation>実行中：</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorPreferences.qml" line="26"/>
-        <location filename="../src/ui/qml/TorPreferences.qml" line="28"/>
-        <location filename="../src/ui/qml/TorPreferences.qml" line="30"/>
+        <location filename="../src/ui/qml/TorPreferences.qml" line="25"/>
+        <location filename="../src/ui/qml/TorPreferences.qml" line="27"/>
+        <location filename="../src/ui/qml/TorPreferences.qml" line="29"/>
         <source>Yes</source>
         <translation>はい</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorPreferences.qml" line="26"/>
-        <location filename="../src/ui/qml/TorPreferences.qml" line="28"/>
-        <location filename="../src/ui/qml/TorPreferences.qml" line="30"/>
+        <location filename="../src/ui/qml/TorPreferences.qml" line="25"/>
+        <location filename="../src/ui/qml/TorPreferences.qml" line="27"/>
+        <location filename="../src/ui/qml/TorPreferences.qml" line="29"/>
         <source>No</source>
         <translation>いいえ</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorPreferences.qml" line="26"/>
+        <location filename="../src/ui/qml/TorPreferences.qml" line="25"/>
         <source>External</source>
         <translation>外部の</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorPreferences.qml" line="27"/>
+        <location filename="../src/ui/qml/TorPreferences.qml" line="26"/>
         <source>Control connected:</source>
         <translation>制御された接続</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorPreferences.qml" line="29"/>
+        <location filename="../src/ui/qml/TorPreferences.qml" line="28"/>
         <source>Circuits established:</source>
         <translation>回線の成立</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorPreferences.qml" line="31"/>
+        <location filename="../src/ui/qml/TorPreferences.qml" line="30"/>
         <source>Hidden service:</source>
         <translation>秘匿サービス</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorPreferences.qml" line="32"/>
+        <location filename="../src/ui/qml/TorPreferences.qml" line="31"/>
         <source>Online</source>
         <translation>オンライン</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorPreferences.qml" line="32"/>
+        <location filename="../src/ui/qml/TorPreferences.qml" line="31"/>
         <source>Offline</source>
         <translation>オフライン</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorPreferences.qml" line="33"/>
+        <location filename="../src/ui/qml/TorPreferences.qml" line="32"/>
         <source>Version:</source>
         <translation>バージョン</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorPreferences.qml" line="60"/>
+        <location filename="../src/ui/qml/TorPreferences.qml" line="59"/>
         <source>Error: &lt;b&gt;%1&lt;/b&gt;</source>
         <extracomment>%1 is error message</extracomment>
         <translation>エラー：&lt;b&gt; %1&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../src/ui/qml/TorPreferences.qml" line="76"/>
+        <location filename="../src/ui/qml/TorPreferences.qml" line="75"/>
         <source>Configure</source>
         <translation>設定</translation>
     </message>
