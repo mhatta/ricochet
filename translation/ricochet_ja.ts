@@ -13,17 +13,17 @@
     <message>
         <location filename="../src/ui/qml/AddContactDialog.qml" line="51"/>
         <source>Share your Ricochet ID to allow connection requests</source>
-        <translation>Ú‘±ƒŠƒNƒGƒXƒg‚ğ‹–‰Â‚·‚é‚½‚ß‚É Ricochet ID‚ğ‹¤—L‚µ‚Ä‚­‚¾‚³‚¢</translation>
+        <translation>æ¥ç¶šãƒªã‚¯ã‚¨ã‚¹ãƒˆã‚’è¨±å¯ã™ã‚‹ãŸã‚ã« Ricochet IDã‚’å…±æœ‰ã—ã¦ãã ã•ã„</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/AddContactDialog.qml" line="107"/>
         <source>Cancel</source>
-        <translation>æ‚èÁ‚·</translation>
+        <translation>å–ã‚Šæ¶ˆã™</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/AddContactDialog.qml" line="112"/>
         <source>Add</source>
-        <translation>’Ç‰Á‚·‚é</translation>
+        <translation>è¿½åŠ ã™ã‚‹</translation>
     </message>
 </context>
 <context>
@@ -31,22 +31,22 @@
     <message>
         <location filename="../src/ui/qml/ContactActions.qml" line="40"/>
         <source>Open Window</source>
-        <translation>ƒEƒBƒ“ƒhƒE‚ğŠJ‚­</translation>
+        <translation>ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã‚’é–‹ã</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactActions.qml" line="44"/>
         <source>Details...</source>
-        <translation>Ú×</translation>
+        <translation>è©³ç´°</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactActions.qml" line="48"/>
         <source>Rename</source>
-        <translation>–¼‘O‚ğ•ÏX‚·‚é</translation>
+        <translation>åå‰ã‚’å¤‰æ›´ã™ã‚‹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactActions.qml" line="53"/>
         <source>Remove</source>
-        <translation>íœ‚·‚é</translation>
+        <translation>å‰Šé™¤ã™ã‚‹</translation>
     </message>
 </context>
 <context>
@@ -54,27 +54,27 @@
     <message>
         <location filename="../src/ui/qml/ContactIDField.qml" line="40"/>
         <source>&lt;b&gt;%1&lt;/b&gt; is already your contact</source>
-        <translation>&lt;b&gt;%1&lt;/b&gt; ‚ÍŠù‚É‚ ‚È‚½‚ÌƒRƒ“ƒ^ƒNƒg‚É‘¶İ‚µ‚Ü‚·</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; ã¯æ—¢ã«ã‚ãªãŸã®ã‚³ãƒ³ã‚¿ã‚¯ãƒˆã«å­˜åœ¨ã—ã¾ã™</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactIDField.qml" line="42"/>
         <source>You can&apos;t add yourself as a contact</source>
-        <translation>©•ª©g‚ğƒRƒ“ƒ^ƒNƒg‚É’Ç‰Á‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñ</translation>
+        <translation>è‡ªåˆ†è‡ªèº«ã‚’ã‚³ãƒ³ã‚¿ã‚¯ãƒˆã«è¿½åŠ ã™ã‚‹ã“ã¨ã¯ã§ãã¾ã›ã‚“</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactIDField.qml" line="44"/>
         <source>Enter an ID starting with &lt;b&gt;ricochet:&lt;/b&gt;</source>
-        <translation>&lt;b&gt;ricochet:&lt;/b&gt; ‚©‚çn‚Ü‚éID ‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢</translation>
+        <translation>&lt;b&gt;ricochet:&lt;/b&gt; ã‹ã‚‰å§‹ã¾ã‚‹ID ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactIDField.qml" line="79"/>
         <source>Copied to clipboard</source>
-        <translation>ƒNƒŠƒbƒvƒ{[ƒh‚ÉƒRƒs[‚µ‚Ü‚µ‚½</translation>
+        <translation>ã‚¯ãƒªãƒƒãƒ—ãƒœãƒ¼ãƒ‰ã«ã‚³ãƒ”ãƒ¼ã—ã¾ã—ãŸ</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactIDField.qml" line="91"/>
         <source>Copy</source>
-        <translation>ƒRƒs[</translation>
+        <translation>ã‚³ãƒ”ãƒ¼</translation>
     </message>
 </context>
 <context>
@@ -82,27 +82,27 @@
     <message>
         <location filename="../src/ui/qml/ContactList.qml" line="75"/>
         <source>Online</source>
-        <translation>ƒIƒ“ƒ‰ƒCƒ“</translation>
+        <translation>ã‚ªãƒ³ãƒ©ã‚¤ãƒ³</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactList.qml" line="76"/>
         <source>Offline</source>
-        <translation>ƒIƒtƒ‰ƒCƒ“</translation>
+        <translation>ã‚ªãƒ•ãƒ©ã‚¤ãƒ³</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactList.qml" line="77"/>
         <source>Requests</source>
-        <translation>ƒŠƒNƒGƒXƒg</translation>
+        <translation>ãƒªã‚¯ã‚¨ã‚¹ãƒˆ</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactList.qml" line="78"/>
         <source>Rejected</source>
-        <translation>‹‘”Û‚³‚ê‚Ü‚µ‚½</translation>
+        <translation>æ‹’å¦ã•ã‚Œã¾ã—ãŸ</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactList.qml" line="79"/>
         <source>Outdated</source>
-        <translation>ŒÃ‚¢</translation>
+        <translation>å¤ã„</translation>
     </message>
 </context>
 <context>
@@ -110,63 +110,63 @@
     <message>
         <location filename="../src/ui/qml/ContactPreferences.qml" line="97"/>
         <source>Date added:</source>
-        <translation>’Ç‰Á‚³‚ê‚½“ú:</translation>
+        <translation>è¿½åŠ ã•ã‚ŒãŸæ—¥:</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactPreferences.qml" line="104"/>
         <source>Last seen:</source>
-        <translation>ÅŒã‚É‰{——:</translation>
+        <translation>æœ€å¾Œã«é–²è¦§:</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactPreferences.qml" line="113"/>
         <source>Request:</source>
-        <translation>ƒŠƒNƒGƒXƒg:</translation>
+        <translation>ãƒªã‚¯ã‚¨ã‚¹ãƒˆ:</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactPreferences.qml" line="122"/>
         <source>Pending connection</source>
-        <translation>Ú‘±‚ğ•Û—¯’†‚Å‚·</translation>
+        <translation>æ¥ç¶šã‚’ä¿ç•™ä¸­ã§ã™</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactPreferences.qml" line="123"/>
         <source>Delivered</source>
-        <translation>‘—MŠ®—¹</translation>
+        <translation>é€ä¿¡å®Œäº†</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactPreferences.qml" line="124"/>
         <source>Accepted</source>
-        <translation>ó‘ø‚³‚ê‚Ü‚µ‚½</translation>
+        <translation>å—è«¾ã•ã‚Œã¾ã—ãŸ</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactPreferences.qml" line="125"/>
         <source>Error</source>
-        <translation>ƒGƒ‰[</translation>
+        <translation>ã‚¨ãƒ©ãƒ¼</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactPreferences.qml" line="126"/>
         <source>Rejected</source>
-        <translation>‹‘”Û‚³‚ê‚Ü‚µ‚½</translation>
+        <translation>æ‹’å¦ã•ã‚Œã¾ã—ãŸ</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactPreferences.qml" line="130"/>
         <source>%1 (Connected)</source>
         <extracomment>%1 status, e.g. &quot;Accepted&quot;</extracomment>
-        <translation>%1(Ú‘±‚³‚ê‚Ü‚µ‚½)</translation>
+        <translation>%1(æ¥ç¶šã•ã‚Œã¾ã—ãŸ)</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactPreferences.qml" line="136"/>
         <source>Response:</source>
-        <translation>•Ô“š</translation>
+        <translation>è¿”ç­”</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactPreferences.qml" line="158"/>
         <source>Rename</source>
-        <translation>–¼‘O‚ğ•ÏX‚·‚é</translation>
+        <translation>åå‰ã‚’å¤‰æ›´ã™ã‚‹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactPreferences.qml" line="165"/>
         <source>Remove</source>
-        <translation>íœ‚·‚é</translation>
+        <translation>å‰Šé™¤ã™ã‚‹</translation>
     </message>
 </context>
 <context>
@@ -174,17 +174,17 @@
     <message>
         <location filename="../src/ui/qml/ContactRequestDialog.qml" line="55"/>
         <source>Someone new is asking to connect to you</source>
-        <translation>‚ ‚È‚½‚Æ‚Â‚È‚ª‚è‚½‚¢l‚ª‚¢‚Ü‚·</translation>
+        <translation>ã‚ãªãŸã¨ã¤ãªãŒã‚ŠãŸã„äººãŒã„ã¾ã™</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactRequestDialog.qml" line="102"/>
         <source>Reject</source>
-        <translation>‹‘”Û‚·‚é</translation>
+        <translation>æ‹’å¦ã™ã‚‹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactRequestDialog.qml" line="107"/>
         <source>Accept</source>
-        <translation>ó‘ø‚·‚é</translation>
+        <translation>å—è«¾ã™ã‚‹</translation>
     </message>
 </context>
 <context>
@@ -197,12 +197,12 @@
     <message>
         <location filename="../src/ui/qml/ContactRequestFields.qml" line="29"/>
         <source>Name:</source>
-        <translation>–¼‘O</translation>
+        <translation>åå‰</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/ContactRequestFields.qml" line="40"/>
         <source>Message:</source>
-        <translation>ƒƒbƒZ[ƒW</translation>
+        <translation>ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸</translation>
     </message>
 </context>
 <context>
@@ -210,22 +210,22 @@
     <message>
         <location filename="../src/ui/qml/GeneralPreferences.qml" line="12"/>
         <source>Use a single window for conversations</source>
-        <translation>ˆê‚Â‚ÌƒEƒBƒ“ƒhƒE‚Å‰ï˜b‚·‚é</translation>
+        <translation>ä¸€ã¤ã®ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã§ä¼šè©±ã™ã‚‹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/GeneralPreferences.qml" line="20"/>
         <source>Open links in default browser without prompting</source>
-        <translation>ƒuƒ‰ƒEƒU‚ÅƒEƒFƒuƒŠƒ“ƒN‚ğŠJ‚­Û‚É‚Í“s“x’Ê’m‚¹‚¸ŠJ‚­</translation>
+        <translation>ãƒ–ãƒ©ã‚¦ã‚¶ã§ã‚¦ã‚§ãƒ–ãƒªãƒ³ã‚¯ã‚’é–‹ãéš›ã«ã¯éƒ½åº¦é€šçŸ¥ã›ãšé–‹ã</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/GeneralPreferences.qml" line="28"/>
         <source>Play audio notifications</source>
-        <translation>’Ê’m‰¹‚ğ–Â‚ç‚·</translation>
+        <translation>é€šçŸ¥éŸ³ã‚’é³´ã‚‰ã™</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/GeneralPreferences.qml" line="37"/>
         <source>Volume</source>
-        <translation>‰¹—Ê</translation>
+        <translation>éŸ³é‡</translation>
     </message>
 </context>
 <context>
@@ -233,12 +233,12 @@
     <message>
         <location filename="../src/ui/qml/LanguagePreferences.qml" line="22"/>
         <source>Select Language</source>
-        <translation>Œ¾Œê‚ğ‘I‘ğ</translation>
+        <translation>è¨€èªã‚’é¸æŠ</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/LanguagePreferences.qml" line="52"/>
         <source>Restart Ricochet to apply changes</source>
-        <translation>•ÏX‚ğ”½‰f‚·‚é‚½‚ß Ricochet ‚ğÄ‹N“®‚·‚é</translation>
+        <translation>å¤‰æ›´ã‚’åæ˜ ã™ã‚‹ãŸã‚ Ricochet ã‚’å†èµ·å‹•ã™ã‚‹</translation>
     </message>
 </context>
 <context>
@@ -246,7 +246,7 @@
     <message>
         <location filename="../src/ui/LanguagesModel.cpp" line="43"/>
         <source>System default</source>
-        <translation>ƒVƒXƒeƒ€ƒfƒtƒHƒ‹ƒg</translation>
+        <translation>ã‚·ã‚¹ãƒ†ãƒ ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ</translation>
     </message>
 </context>
 <context>
@@ -254,7 +254,7 @@
     <message>
         <location filename="../src/main.cpp" line="73"/>
         <source>Ricochet Error</source>
-        <translation>Ricochet ‚ÌƒGƒ‰[</translation>
+        <translation>Ricochet ã®ã‚¨ãƒ©ãƒ¼</translation>
     </message>
 </context>
 <context>
@@ -262,17 +262,17 @@
     <message>
         <location filename="../src/ui/qml/MainToolBar.qml" line="19"/>
         <source>Add Contact</source>
-        <translation>ƒRƒ“ƒ^ƒNƒg‚ğ’Ç‰Á‚·‚é</translation>
+        <translation>ã‚³ãƒ³ã‚¿ã‚¯ãƒˆã‚’è¿½åŠ ã™ã‚‹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/MainToolBar.qml" line="28"/>
         <source>Preferences</source>
-        <translation>‘I‘ğ</translation>
+        <translation>é¸æŠ</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/MainToolBar.qml" line="75"/>
         <source>Click to add contacts</source>
-        <translation>ƒNƒŠƒbƒN‚µ‚ÄƒRƒ“ƒ^ƒNƒg‚ğ’Ç‰Á‚·‚é</translation>
+        <translation>ã‚¯ãƒªãƒƒã‚¯ã—ã¦ã‚³ãƒ³ã‚¿ã‚¯ãƒˆã‚’è¿½åŠ ã™ã‚‹</translation>
     </message>
 </context>
 <context>
@@ -280,12 +280,12 @@
     <message>
         <location filename="../src/ui/MainWindow.cpp" line="153"/>
         <source>Remove %1</source>
-        <translation>%1‚ğíœ‚·‚é</translation>
+        <translation>%1ã‚’å‰Šé™¤ã™ã‚‹</translation>
     </message>
     <message>
         <location filename="../src/ui/MainWindow.cpp" line="154"/>
         <source>Do you want to permanently remove %1?</source>
-        <translation>%1‚ğ‰i‹v‚Éíœ‚µ‚Ü‚·‚©H</translation>
+        <translation>%1ã‚’æ°¸ä¹…ã«å‰Šé™¤ã—ã¾ã™ã‹ï¼Ÿ</translation>
     </message>
 </context>
 <context>
@@ -294,37 +294,37 @@
         <location filename="../src/ui/qml/MessageDelegate.qml" line="26"/>
         <source>%1 is offline</source>
         <extracomment>%1 nickname</extracomment>
-        <translation>%1‚ÍƒIƒtƒ‰ƒCƒ“‚Å‚·</translation>
+        <translation>%1ã¯ã‚ªãƒ•ãƒ©ã‚¤ãƒ³ã§ã™</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/MessageDelegate.qml" line="134"/>
         <source>Copy ID</source>
-        <translation>ID‚ğƒRƒs[‚·‚é</translation>
+        <translation>IDã‚’ã‚³ãƒ”ãƒ¼ã™ã‚‹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/MessageDelegate.qml" line="134"/>
         <source>Copy Link</source>
-        <translation>ƒŠƒ“ƒN‚ğƒRƒs[‚·‚é</translation>
+        <translation>ãƒªãƒ³ã‚¯ã‚’ã‚³ãƒ”ãƒ¼ã™ã‚‹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/MessageDelegate.qml" line="139"/>
         <source>Open with Browser</source>
-        <translation>ƒuƒ‰ƒEƒU‚ÅŠJ‚­</translation>
+        <translation>ãƒ–ãƒ©ã‚¦ã‚¶ã§é–‹ã</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/MessageDelegate.qml" line="153"/>
         <source>Add as Contact</source>
-        <translation>ƒRƒ“ƒ^ƒNƒg‚É’Ç‰Á‚·‚é</translation>
+        <translation>ã‚³ãƒ³ã‚¿ã‚¯ãƒˆã«è¿½åŠ ã™ã‚‹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/MessageDelegate.qml" line="165"/>
         <source>Copy Message</source>
-        <translation>ƒƒbƒZ[ƒW‚ğƒRƒs[‚·‚é</translation>
+        <translation>ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’ã‚³ãƒ”ãƒ¼ã™ã‚‹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/MessageDelegate.qml" line="172"/>
         <source>Copy Selection</source>
-        <translation>‘I‘ğ”ÍˆÍ‚ğƒRƒs[‚·‚é</translation>
+        <translation>é¸æŠç¯„å›²ã‚’ã‚³ãƒ”ãƒ¼ã™ã‚‹</translation>
     </message>
 </context>
 <context>
@@ -332,18 +332,18 @@
     <message>
         <location filename="../src/ui/qml/MessageDialogWrapper.qml" line="7"/>
         <source>Remove %1</source>
-        <translation>%1‚ğíœ‚·‚é</translation>
+        <translation>%1ã‚’å‰Šé™¤ã™ã‚‹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/MessageDialogWrapper.qml" line="9"/>
         <source>Do you want to permanently remove %1?</source>
         <extracomment>%1 nickname</extracomment>
-        <translation>%1‚ğ‰i‹v‚Éíœ‚µ‚Ü‚·‚©H</translation>
+        <translation>%1ã‚’æ°¸ä¹…ã«å‰Šé™¤ã—ã¾ã™ã‹ï¼Ÿ</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/MessageDialogWrapper.qml" line="10"/>
         <source>This contact will no longer be able to message you, and will be notified about the removal. They may choose to send a new connection request.</source>
-        <translation>‚±‚ÌƒRƒ“ƒ^ƒNƒg‚Í‚ ‚È‚½‚ÉƒƒbƒZ[ƒW‚ğ‘—‚é‚±‚Æ‚Í‚Å‚«‚È‚­‚È‚èAíœ‚³‚ê‚½‚±‚Æ‚ª’Ê’m‚³‚ê‚Ü‚·BV‚½‚É‚Â‚È‚ª‚èƒŠƒNƒGƒXƒg‚ğ‘—‚é‚±‚Æ‚ğ‘I‘ğ‚·‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB</translation>
+        <translation>ã“ã®ã‚³ãƒ³ã‚¿ã‚¯ãƒˆã¯ã‚ãªãŸã«ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’é€ã‚‹ã“ã¨ã¯ã§ããªããªã‚Šã€å‰Šé™¤ã•ã‚ŒãŸã“ã¨ãŒé€šçŸ¥ã•ã‚Œã¾ã™ã€‚æ–°ãŸã«ã¤ãªãŒã‚Šãƒªã‚¯ã‚¨ã‚¹ãƒˆã‚’é€ã‚‹ã“ã¨ã‚’é¸æŠã™ã‚‹ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ã€‚</translation>
     </message>
 </context>
 <context>
@@ -351,22 +351,22 @@
     <message>
         <location filename="../src/ui/qml/NetworkSetupWizard.qml" line="100"/>
         <source>This computer&apos;s Internet connection is free of obstacles. I would like to connect directly to the Tor network.</source>
-        <translation>‚±‚ÌƒRƒ“ƒsƒ…[ƒ^‚ÌƒCƒ“ƒ^[ƒlƒbƒgÚ‘±‚Í–WŠQ‚ğó‚¯‚Ä‚¢‚Ü‚¹‚ñBTor ƒlƒbƒgƒ[ƒN‚É’¼ÚÚ‘±‚µ‚Ä‚­‚¾‚³‚¢B</translation>
+        <translation>ã“ã®ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã®ã‚¤ãƒ³ã‚¿ãƒ¼ãƒãƒƒãƒˆæ¥ç¶šã¯å¦¨å®³ã‚’å—ã‘ã¦ã„ã¾ã›ã‚“ã€‚Tor ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯ã«ç›´æ¥æ¥ç¶šã—ã¦ãã ã•ã„ã€‚</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/NetworkSetupWizard.qml" line="107"/>
         <source>Connect</source>
-        <translation>Ú‘±‚·‚é</translation>
+        <translation>æ¥ç¶šã™ã‚‹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/NetworkSetupWizard.qml" line="124"/>
         <source>This computer&apos;s Internet connection is censored, filtered, or proxied. I need to configure network settings.</source>
-        <translation>‚±‚ÌƒRƒ“ƒsƒ…[ƒ^‚ÌƒCƒ“ƒ^[ƒlƒbƒgÚ‘±‚ÍŒŸ‰{AƒtƒBƒ‹ƒ^AƒvƒƒLƒVİ’è‚ª‚³‚ê‚Ä‚¢‚Ü‚·Bƒlƒbƒgƒ[ƒNƒRƒ“ƒtƒBƒMƒ…ƒŒ[ƒVƒ‡ƒ“‚Ìİ’è‚ğ•ÏX‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B</translation>
+        <translation>ã“ã®ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã®ã‚¤ãƒ³ã‚¿ãƒ¼ãƒãƒƒãƒˆæ¥ç¶šã¯æ¤œé–²ã€ãƒ•ã‚£ãƒ«ã‚¿ã€ãƒ—ãƒ­ã‚­ã‚·è¨­å®šãŒã•ã‚Œã¦ã„ã¾ã™ã€‚ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯ã‚³ãƒ³ãƒ•ã‚£ã‚®ãƒ¥ãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³ã®è¨­å®šã‚’å¤‰æ›´ã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/NetworkSetupWizard.qml" line="131"/>
         <source>Configure</source>
-        <translation>İ’è‚·‚é</translation>
+        <translation>è¨­å®šã™ã‚‹</translation>
     </message>
 </context>
 <context>
@@ -374,23 +374,23 @@
     <message>
         <location filename="../src/ui/qml/OfflineStateItem.qml" line="107"/>
         <source>Configure</source>
-        <translation>İ’è‚·‚é</translation>
+        <translation>è¨­å®šã™ã‚‹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/OfflineStateItem.qml" line="115"/>
         <source>Details</source>
-        <translation>Ú×</translation>
+        <translation>è©³ç´°</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/OfflineStateItem.qml" line="143"/>
         <source>Connection failed</source>
-        <translation>Ú‘±‚É¸”s‚µ‚Ü‚µ‚½</translation>
+        <translation>æ¥ç¶šã«å¤±æ•—ã—ã¾ã—ãŸ</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/OfflineStateItem.qml" line="169"/>
-        <source>Connectingc</source>
+        <source>Connectingâ€¦</source>
         <extracomment>\u2026 is ellipsis</extracomment>
-        <translation>Ú‘±’†</translation>
+        <translation>æ¥ç¶šä¸­</translation>
     </message>
 </context>
 <context>
@@ -398,27 +398,27 @@
     <message>
         <location filename="../src/ui/qml/OpenBrowserDialog.qml" line="39"/>
         <source>&lt;b&gt;Warning!&lt;/b&gt; Opening links with your default browser will harm your security and anonymity.&lt;br&gt;&lt;br&gt;You can &lt;a href=&apos;.&apos;&gt;copy to the clipboard&lt;/a&gt; instead.</source>
-        <translation>&lt;b&gt; ŒxI&lt;b/&gt; ‚±‚ÌƒŠƒ“ƒN‚ğŠù’è‚Ìƒuƒ‰ƒEƒU‚ÅŠJ‚­‚Æ‚ ‚È‚½‚ÌƒZƒLƒ…ƒŠƒeƒB‚Æ“½–¼«‚ÉŠQ‚ğ‹y‚Ú‚·‰Â”\«‚ª‚ ‚è‚Ü‚·B&lt;br&gt;&lt;br&gt; ‘ã‚í‚è‚É&lt;a href=&apos;,&apos;&gt; ƒNƒŠƒbƒvƒ{[ƒh‚ÉƒRƒs[‚·‚é&lt;/a&gt; ‚±‚Æ‚à‚Å‚«‚Ü‚·B</translation>
+        <translation>&lt;b&gt; è­¦å‘Šï¼&lt;b/&gt; ã“ã®ãƒªãƒ³ã‚¯ã‚’æ—¢å®šã®ãƒ–ãƒ©ã‚¦ã‚¶ã§é–‹ãã¨ã‚ãªãŸã®ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ã¨åŒ¿åæ€§ã«å®³ã‚’åŠã¼ã™å¯èƒ½æ€§ãŒã‚ã‚Šã¾ã™ã€‚&lt;br&gt;&lt;br&gt; ä»£ã‚ã‚Šã«&lt;a href=&apos;,&apos;&gt; ã‚¯ãƒªãƒƒãƒ—ãƒœãƒ¼ãƒ‰ã«ã‚³ãƒ”ãƒ¼ã™ã‚‹&lt;/a&gt; ã“ã¨ã‚‚ã§ãã¾ã™ã€‚</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/OpenBrowserDialog.qml" line="58"/>
         <source>Don&apos;t ask again for links from %1</source>
-        <translation>%1‚©‚ç‚ÌƒŠƒ“ƒN‚Í‚¢‚Â‚à‹–‰Â‚·‚é</translation>
+        <translation>%1ã‹ã‚‰ã®ãƒªãƒ³ã‚¯ã¯ã„ã¤ã‚‚è¨±å¯ã™ã‚‹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/OpenBrowserDialog.qml" line="64"/>
         <source>Don&apos;t ask again for any links (not recommended!)</source>
-        <translation>%1‚©‚ç‚Ì‚·‚×‚Ä‚ÌƒŠƒ“ƒN‚ğÄŠm”F‚µ‚È‚¢(”ñ„§)</translation>
+        <translation>%1ã‹ã‚‰ã®ã™ã¹ã¦ã®ãƒªãƒ³ã‚¯ã‚’å†ç¢ºèªã—ãªã„(éæ¨å¥¨)</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/OpenBrowserDialog.qml" line="71"/>
         <source>Open Browser</source>
-        <translation>ƒuƒ‰ƒEƒU‚ğŠJ‚­</translation>
+        <translation>ãƒ–ãƒ©ã‚¦ã‚¶ã‚’é–‹ã</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/OpenBrowserDialog.qml" line="83"/>
         <source>Cancel</source>
-        <translation>æ‚èÁ‚·</translation>
+        <translation>å–ã‚Šæ¶ˆã™</translation>
     </message>
 </context>
 <context>
@@ -426,22 +426,22 @@
     <message>
         <location filename="../src/ui/qml/PreferencesDialog.qml" line="12"/>
         <source>Ricochet Preferences</source>
-        <translation>Ricochet ‚Ìİ’è</translation>
+        <translation>Ricochet ã®è¨­å®š</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/PreferencesDialog.qml" line="41"/>
         <source>General</source>
-        <translation>ˆê”Ê</translation>
+        <translation>ä¸€èˆ¬</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/PreferencesDialog.qml" line="46"/>
         <source>Language</source>
-        <translation>Œ¾Œê</translation>
+        <translation>è¨€èª</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/PreferencesDialog.qml" line="51"/>
         <source>Contacts</source>
-        <translation>ƒRƒ“ƒ^ƒNƒg</translation>
+        <translation>ã‚³ãƒ³ã‚¿ã‚¯ãƒˆ</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/PreferencesDialog.qml" line="56"/>
@@ -451,7 +451,7 @@
     <message>
         <location filename="../src/ui/qml/PreferencesDialog.qml" line="61"/>
         <source>About</source>
-        <translation>î•ñ</translation>
+        <translation>æƒ…å ±</translation>
     </message>
 </context>
 <context>
@@ -459,7 +459,7 @@
     <message>
         <location filename="../src/ui/qml/MainWindow.qml" line="29"/>
         <source>Preference</source>
-        <translation>İ’è</translation>
+        <translation>è¨­å®š</translation>
     </message>
 </context>
 <context>
@@ -467,41 +467,41 @@
     <message>
         <location filename="../src/ui/qml/StartupStatusPage.qml" line="18"/>
         <source>The Tor process was not started successfully. This is most likely an installation or system error.</source>
-        <translation>Tor ƒvƒƒZƒX‚ª“KØ‚ÉŠJn‚³‚ê‚Ü‚¹‚ñ‚Å‚µ‚½BƒCƒ“ƒXƒg[ƒ‹ƒGƒ‰[‚©AƒVƒXƒeƒ€ƒGƒ‰[‚Ì‰Â”\«‚ª‚‚¢‚Å‚·B</translation>
+        <translation>Tor ãƒ—ãƒ­ã‚»ã‚¹ãŒé©åˆ‡ã«é–‹å§‹ã•ã‚Œã¾ã›ã‚“ã§ã—ãŸã€‚ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã‚¨ãƒ©ãƒ¼ã‹ã€ã‚·ã‚¹ãƒ†ãƒ ã‚¨ãƒ©ãƒ¼ã®å¯èƒ½æ€§ãŒé«˜ã„ã§ã™ã€‚</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/StartupStatusPage.qml" line="49"/>
         <source>Quit</source>
-        <translation>I—¹‚·‚é</translation>
+        <translation>çµ‚äº†ã™ã‚‹</translation>
     </message>
 </context>
 <context>
     <name>TorBootstrapStatus</name>
     <message>
         <location filename="../src/ui/qml/TorBootstrapStatus.qml" line="17"/>
-        <source>Connecting to the Tor networkc</source>
+        <source>Connecting to the Tor networkâ€¦</source>
         <extracomment>\u2026 is ellipsis</extracomment>
-        <translation>Tor ƒlƒbƒgƒ[ƒN‚ÉÚ‘±’†...</translation>
+        <translation>Tor ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯ã«æ¥ç¶šä¸­...</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorBootstrapStatus.qml" line="50"/>
         <source>Back</source>
-        <translation>–ß‚é</translation>
+        <translation>æˆ»ã‚‹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorBootstrapStatus.qml" line="57"/>
         <source>Hide details</source>
-        <translation>Ú×‚ğ‰B‚·</translation>
+        <translation>è©³ç´°ã‚’éš ã™</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorBootstrapStatus.qml" line="57"/>
         <source>Show details</source>
-        <translation>Ú×‚ğŠJ‚­</translation>
+        <translation>è©³ç´°ã‚’é–‹ã</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorBootstrapStatus.qml" line="69"/>
         <source>Done</source>
-        <translation>Š®—¹</translation>
+        <translation>å®Œäº†</translation>
     </message>
 </context>
 <context>
@@ -509,84 +509,84 @@
     <message>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="72"/>
         <source>Does this computer need a proxy to access the internet?</source>
-        <translation>‚±‚ÌƒRƒ“ƒsƒ…[ƒ^‚ÍƒCƒ“ƒ^[ƒlƒbƒg‚ÉƒAƒNƒZƒX‚·‚é‚Ì‚ÉƒvƒƒLƒV‚ª•K—v‚Å‚·‚©H</translation>
+        <translation>ã“ã®ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã¯ã‚¤ãƒ³ã‚¿ãƒ¼ãƒãƒƒãƒˆã«ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹ã®ã«ãƒ—ãƒ­ã‚­ã‚·ãŒå¿…è¦ã§ã™ã‹ï¼Ÿ</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="84"/>
         <source>Proxy type:</source>
-        <translation>ƒvƒƒLƒV‚Ìí—Ş</translation>
+        <translation>ãƒ—ãƒ­ã‚­ã‚·ã®ç¨®é¡</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="89"/>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="91"/>
         <source>None</source>
-        <translation>–³‚¢</translation>
+        <translation>ç„¡ã„</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="106"/>
         <source>Address:</source>
-        <translation>ƒAƒhƒŒƒX</translation>
+        <translation>ã‚¢ãƒ‰ãƒ¬ã‚¹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="115"/>
         <source>IP address or hostname</source>
-        <translation>IPƒAƒhƒŒƒX‚©ƒzƒXƒgƒl[ƒ€</translation>
+        <translation>IPã‚¢ãƒ‰ãƒ¬ã‚¹ã‹ãƒ›ã‚¹ãƒˆãƒãƒ¼ãƒ </translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="118"/>
         <source>Port:</source>
-        <translation>ƒ|[ƒg</translation>
+        <translation>ãƒãƒ¼ãƒˆ</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="129"/>
         <source>Username:</source>
-        <translation>ƒ†[ƒU[ƒl[ƒ€</translation>
+        <translation>ãƒ¦ãƒ¼ã‚¶ãƒ¼ãƒãƒ¼ãƒ </translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="139"/>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="149"/>
         <source>Optional</source>
-        <translation>•K{‚Å‚Í–³‚¢</translation>
+        <translation>å¿…é ˆã§ã¯ç„¡ã„</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="142"/>
         <source>Password:</source>
-        <translation>ƒpƒXƒ[ƒh</translation>
+        <translation>ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="159"/>
         <source>Does this computer&apos;s Internet connection go through a firewall that only allows connections to certain ports?</source>
-        <translation>‚±‚ÌƒRƒ“ƒsƒ…[ƒ^‚Í“Á’è‚Ìƒ|[ƒg‚Ìg‚ğ‹–‰Â‚·‚éƒtƒ@ƒCƒAƒEƒH[ƒ‹‚ğŒo—R‚µ‚Ü‚·‚©H</translation>
+        <translation>ã“ã®ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã¯ç‰¹å®šã®ãƒãƒ¼ãƒˆã®èº«ã‚’è¨±å¯ã™ã‚‹ãƒ•ã‚¡ã‚¤ã‚¢ã‚¦ã‚©ãƒ¼ãƒ«ã‚’çµŒç”±ã—ã¾ã™ã‹ï¼Ÿ</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="170"/>
         <source>Allowed ports:</source>
-        <translation>‹–‰Â‚³‚ê‚½ƒ|[ƒg</translation>
+        <translation>è¨±å¯ã•ã‚ŒãŸãƒãƒ¼ãƒˆ</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="177"/>
         <source>Example: 80,443</source>
-        <translation>—á‚¦‚ÎF80A443</translation>
+        <translation>ä¾‹ãˆã°ï¼š80Â ã€443</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="188"/>
         <source>If this computer&apos;s Internet connection is censored, you will need to obtain and use bridge relays.</source>
-        <translation>‚±‚ÌƒRƒ“ƒsƒ…[ƒ^‚ÌƒCƒ“ƒ^[ƒlƒbƒgÚ‘±‚ªŒŸ’m‚³‚ê‚½ê‡AƒuƒŠƒbƒWƒŠƒŒ[‚ğè‚É“ü‚ê‚Ä—˜—p‚·‚é•K—v‚ª‚ ‚è‚Ü‚·</translation>
+        <translation>ã“ã®ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã®ã‚¤ãƒ³ã‚¿ãƒ¼ãƒãƒƒãƒˆæ¥ç¶šãŒæ¤œçŸ¥ã•ã‚ŒãŸå ´åˆã€ãƒ–ãƒªãƒƒã‚¸ãƒªãƒ¬ãƒ¼ã‚’æ‰‹ã«å…¥ã‚Œã¦åˆ©ç”¨ã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="197"/>
         <source>Enter one or more bridge relays (one per line):</source>
-        <translation>1‚Â‚à‚µ‚­‚Í‚»‚êˆÈã‚ÌƒuƒŠƒbƒWƒŠƒŒ[‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢(‚Pƒ‰ƒCƒ“‚É‚Â‚«‚P‚Â)F</translation>
+        <translation>1ã¤ã‚‚ã—ãã¯ãã‚Œä»¥ä¸Šã®ãƒ–ãƒªãƒƒã‚¸ãƒªãƒ¬ãƒ¼ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„(ï¼‘ãƒ©ã‚¤ãƒ³ã«ã¤ãï¼‘ã¤)ï¼š</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="212"/>
         <source>Back</source>
-        <translation>–ß‚é</translation>
+        <translation>æˆ»ã‚‹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorConfigurationPage.qml" line="219"/>
         <source>Connect</source>
-        <translation>Ú‘±‚·‚é</translation>
+        <translation>æ¥ç¶šã™ã‚‹</translation>
     </message>
 </context>
 <context>
@@ -594,67 +594,67 @@
     <message>
         <location filename="../src/ui/qml/TorPreferences.qml" line="24"/>
         <source>Running:</source>
-        <translation>Às’†F</translation>
+        <translation>å®Ÿè¡Œä¸­ï¼š</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorPreferences.qml" line="25"/>
         <location filename="../src/ui/qml/TorPreferences.qml" line="27"/>
         <location filename="../src/ui/qml/TorPreferences.qml" line="29"/>
         <source>Yes</source>
-        <translation>‚Í‚¢</translation>
+        <translation>ã¯ã„</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorPreferences.qml" line="25"/>
         <location filename="../src/ui/qml/TorPreferences.qml" line="27"/>
         <location filename="../src/ui/qml/TorPreferences.qml" line="29"/>
         <source>No</source>
-        <translation>‚¢‚¢‚¦</translation>
+        <translation>ã„ã„ãˆ</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorPreferences.qml" line="25"/>
         <source>External</source>
-        <translation>ŠO•”‚Ì</translation>
+        <translation>å¤–éƒ¨ã®</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorPreferences.qml" line="26"/>
         <source>Control connected:</source>
-        <translation>Control‚ªÚ‘±</translation>
+        <translation>ControlãŒæ¥ç¶š</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorPreferences.qml" line="28"/>
         <source>Circuits established:</source>
-        <translation>‰ñü‚Ì¬—§</translation>
+        <translation>å›ç·šã®æˆç«‹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorPreferences.qml" line="30"/>
         <source>Hidden service:</source>
-        <translation>”é“½ƒT[ƒrƒX</translation>
+        <translation>ç§˜åŒ¿ã‚µãƒ¼ãƒ“ã‚¹</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorPreferences.qml" line="31"/>
         <source>Online</source>
-        <translation>ƒIƒ“ƒ‰ƒCƒ“</translation>
+        <translation>ã‚ªãƒ³ãƒ©ã‚¤ãƒ³</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorPreferences.qml" line="31"/>
         <source>Offline</source>
-        <translation>ƒIƒtƒ‰ƒCƒ“</translation>
+        <translation>ã‚ªãƒ•ãƒ©ã‚¤ãƒ³</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorPreferences.qml" line="32"/>
         <source>Version:</source>
-        <translation>ƒo[ƒWƒ‡ƒ“</translation>
+        <translation>ãƒãƒ¼ã‚¸ãƒ§ãƒ³</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorPreferences.qml" line="59"/>
         <source>Error: &lt;b&gt;%1&lt;/b&gt;</source>
         <extracomment>%1 is error message</extracomment>
-        <translation>ƒGƒ‰[F&lt;b&gt; %1&lt;/b&gt;</translation>
+        <translation>ã‚¨ãƒ©ãƒ¼ï¼š&lt;b&gt; %1&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorPreferences.qml" line="75"/>
         <source>Configure</source>
-        <translation>İ’è</translation>
+        <translation>è¨­å®š</translation>
     </message>
 </context>
 <context>
@@ -663,30 +663,30 @@
         <location filename="../src/ui/qml/TorStateWidget.qml" line="9"/>
         <location filename="../src/ui/qml/TorStateWidget.qml" line="20"/>
         <source>Connection failed</source>
-        <translation>Ú‘±‚É¸”s‚µ‚Ü‚µ‚½</translation>
+        <translation>æ¥ç¶šã«å¤±æ•—ã—ã¾ã—ãŸ</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorStateWidget.qml" line="12"/>
         <location filename="../src/ui/qml/TorStateWidget.qml" line="22"/>
-        <source>Connectingc</source>
+        <source>Connectingâ€¦</source>
         <extracomment>\u2026 is ellipsis</extracomment>
-        <translation>Ú‘±’†</translation>
+        <translation>æ¥ç¶šä¸­</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorStateWidget.qml" line="25"/>
-        <source>Connectingc (%1%)</source>
+        <source>Connectingâ€¦ (%1%)</source>
         <extracomment>%1 is progress percentage, e.g. 100</extracomment>
-        <translation>Ú‘±’†(%1%)</translation>
+        <translation>æ¥ç¶šä¸­(%1%)</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorStateWidget.qml" line="32"/>
         <source>Online</source>
-        <translation>ƒIƒ“ƒ‰ƒCƒ“</translation>
+        <translation>ã‚ªãƒ³ãƒ©ã‚¤ãƒ³</translation>
     </message>
     <message>
         <location filename="../src/ui/qml/TorStateWidget.qml" line="34"/>
         <source>Connected</source>
-        <translation>Ú‘±Ï</translation>
+        <translation>æ¥ç¶šæ¸ˆ</translation>
     </message>
 </context>
 </TS>
